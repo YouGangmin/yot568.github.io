@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/yot568.github.io/static/css/main.a8a45535.css",
+    "main.js": "/yot568.github.io/static/js/main.33646b00.js",
+    "static/js/787.a8a77f24.chunk.js": "/yot568.github.io/static/js/787.a8a77f24.chunk.js",
+    "static/media/home.jpg": "/yot568.github.io/static/media/home.92b571b1d8cce6bd516c.jpg",
+    "index.html": "/yot568.github.io/index.html",
+    "main.a8a45535.css.map": "/yot568.github.io/static/css/main.a8a45535.css.map",
+    "main.33646b00.js.map": "/yot568.github.io/static/js/main.33646b00.js.map",
+    "787.a8a77f24.chunk.js.map": "/yot568.github.io/static/js/787.a8a77f24.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8a45535.css",
+    "static/js/main.33646b00.js"
+  ]
+}
